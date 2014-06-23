@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Minify': 'minifier:minify'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Minifier'
+      'submenu': [
+        { 'label': 'Minify', 'command': 'minifier:minify' }
+      ]
+    ]
+  }
+]
