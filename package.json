@@ -1,9 +1,12 @@
 {
   "name": "minifier",
   "main": "./lib/minifier",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Minify JavaScript and CSS files in Atom with YUI and UglifyJS2",
-  "activationEvents": ["minifier:minify", "core:save"],
+  "activationEvents": [
+    "minifier:minify",
+    "core:save"
+  ],
   "repository": "https://github.com/wylst/atom-minifier",
   "license": "MIT",
   "engines": {
