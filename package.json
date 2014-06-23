@@ -1,7 +1,7 @@
 {
   "name": "minifier",
   "main": "./lib/minifier",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Minify JavaScript and CSS files in Atom with YUI and UglifyJS2",
   "activationEvents": [
     "minifier:minify",
