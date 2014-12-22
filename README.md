@@ -6,4 +6,4 @@
 Install Minifier by searching 'minifier' in the Packages section of Preferences. You can also install the package via the command line with `apm install minifier`.
 
 ## Usage
-To minify a file, use the keyboard shortcut `Cmd/Ctrl+Shift+M`. You can also minify files on save by checking the corresponding option in Preferences.
+To minify a file, use the keyboard shortcut `Option+Shift+M` (`Alt+Shift+M` on Windows). You can also minify files on save by checking the corresponding option in Preferences.
