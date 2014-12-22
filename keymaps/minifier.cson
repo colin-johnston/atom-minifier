@@ -8,5 +8,5 @@
 # For more detailed documentation see
 # https://atom.io/docs/latest/advanced/keymaps
 '.workspace .editor':
-  'cmd-shift-m': 'minifier:minify'
-  'ctrl-shift-m': 'minifier:minify'
+  'option-shift-m': 'minifier:minify'
+  'alt-shift-m': 'minifier:minify'
