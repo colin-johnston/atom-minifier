@@ -7,6 +7,6 @@
 
 # For more detailed documentation see
 # https://atom.io/docs/latest/advanced/keymaps
-'.workspace .editor':
+'atom-text-editor atom-workspace':
   'option-shift-m': 'minifier:minify'
   'alt-shift-m': 'minifier:minify'
